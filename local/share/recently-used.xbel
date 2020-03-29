@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/igfersa/Downloads/dotfiles-master.zip" added="2020-03-22T23:54:36Z" modified="2020-03-22T23:54:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-22T23:54:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/PydReDir6cJSOfxCawHzAHknkANhcf_l02MUP3ADi5I.jpg" added="2020-03-22T23:57:56Z" modified="2020-03-22T23:57:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-22T23:57:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Images/lisp-meditate.png" added="2020-03-22T23:59:36Z" modified="2020-03-22T23:59:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-22T23:59:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Images/PydReDir6cJSOfxCawHzAHknkANhcf_l02MUP3ADi5I.jpg" added="2020-03-23T00:00:29Z" modified="2020-03-23T00:00:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-23T00:00:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Images" added="2020-03-23T00:08:23Z" modified="2020-03-23T00:08:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2020-03-23T00:08:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/dotfiles-master/bspwmrc" added="2020-03-23T14:15:59Z" modified="2020-03-23T14:17:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T14:17:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/bspwm/bspwmrc" added="2020-03-23T14:16:41Z" modified="2020-03-23T18:06:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T18:06:57Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/dotfiles-master/sxhkdrc" added="2020-03-23T14:18:53Z" modified="2020-03-23T14:18:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T14:18:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/polybar/config.save" added="2020-03-23T18:07:44Z" modified="2020-03-23T18:07:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T18:07:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/polybar/config" added="2020-03-23T18:07:55Z" modified="2020-03-23T18:07:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T18:07:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/polybar/scripts/updates-arch-combined.sh" added="2020-03-23T18:41:28Z" modified="2020-03-23T18:42:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T18:42:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/sxhkd/sxhkdrc" added="2020-03-23T18:57:33Z" modified="2020-03-23T19:01:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T19:01:35Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/rofi/config" added="2020-03-23T19:00:41Z" modified="2020-03-23T19:02:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T19:02:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/.config/mopidy/mopidy.conf.safe" added="2020-03-23T22:13:14Z" modified="2020-03-23T22:17:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-23T22:17:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/archrice/.config/bspwm/bspwmrc" added="2020-03-25T12:56:33Z" modified="2020-03-25T12:56:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-25T12:56:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Los_Soprano_1_BluRay_Rip_720p_01_13.torrent" added="2020-03-26T14:39:18Z" modified="2020-03-27T12:15:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T12:15:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO" added="2020-03-26T14:39:59Z" modified="2020-03-27T12:20:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2020-03-27T12:20:01Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Los_Soprano_1_BluRay_Rip_720p_01_13-1.torrent" added="2020-03-26T14:47:22Z" modified="2020-03-26T14:47:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-26T14:47:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/000071_Los_Soprano_1_BluRay_Rip_720p_01_13.torrent" added="2020-03-26T21:24:46Z" modified="2020-03-26T21:24:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-26T21:24:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x02.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x04.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x03.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x01.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x09.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x07.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x10.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x06.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x08.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x11.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x13.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x12.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1/Los%20Soprano%20-%201x05.avi" added="2020-03-26T21:39:18Z" modified="2020-03-26T21:39:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-msvideo"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/LOS%20SOPRANO/T1" added="2020-03-26T21:40:45Z" modified="2020-03-26T21:40:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="winff" exec="&apos;winff %u&apos;" modified="2020-03-26T21:40:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Los_Soprano_3_BluRay_Rip_720p_01_13.torrent" added="2020-03-28T14:04:19Z" modified="2020-03-28T14:04:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T14:04:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/SERIES/LosSoprano" added="2020-03-28T14:04:32Z" modified="2020-03-28T14:04:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2020-03-28T14:04:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
