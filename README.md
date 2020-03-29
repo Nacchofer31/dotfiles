@@ -1,6 +1,6 @@
 # Preview
-![shot1] (pix/screenshot1.png)
-![shot2] (pix/screenshot2.png)
+![shot1](pix/screenshot1.png)
+![shot2](pix/screenshot2.png)
 
 # Setup
 
