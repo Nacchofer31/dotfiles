@@ -1,0 +1,63 @@
+[2020.04.01 13:29:54] Launched version: 2000001, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2020.04.01 13:29:54] Executable dir: /usr/bin/, name: telegram-desktop
+[2020.04.01 13:29:54] Initial working dir: /home/igfersa/
+[2020.04.01 13:29:54] Working dir: /home/igfersa/.local/share/TelegramDesktop/
+[2020.04.01 13:29:54] Command line: telegram-desktop
+[2020.04.01 13:29:54] Executable path before check: /usr/bin/telegram-desktop
+[2020.04.01 13:29:54] Logs started
+[2020.04.01 13:29:54] Launcher filename: telegramdesktop.desktop
+[2020.04.01 13:29:54] Connecting local socket to /run/user/1000/e831627bec9cee9bebcca36942f6975a-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2020.04.01 13:29:54] This is the only instance of Telegram, starting server and app...
+[2020.04.01 13:29:54] Moved logging from '/home/igfersa/.local/share/TelegramDesktop/log_start0.txt' to '/home/igfersa/.local/share/TelegramDesktop/log.txt'!
+[2020.04.01 13:29:54] Primary screen DPI: 96.1032
+[2020.04.01 13:29:54] App Info: reading settings...
+[2020.04.01 13:29:54] App Info: reading encrypted settings...
+[2020.04.01 13:29:54] Lang Info: Loaded cached, keys: 2591
+[2020.04.01 13:29:54] OpenAL Logging Level: (not set)
+[2020.04.01 13:29:54] Audio Playback Devices: Audio Interno Estéreo Analógico
+[2020.04.01 13:29:54] Audio Playback Default Device: Audio Interno Estéreo Analógico
+[2020.04.01 13:29:54] Audio Capture Devices: Audio Interno Estéreo Analógico;Monitor of Audio Interno Estéreo Analógico
+[2020.04.01 13:29:54] Audio Capture Default Device: Audio Interno Estéreo Analógico
+[2020.04.01 13:29:54] System tray available: [TRUE]
+[2020.04.01 13:29:54] Not using D-Bus global menu.
+[2020.04.01 13:29:54] Not using Unity launcher counter.
+[2020.04.01 13:29:54] App Info: reading map...
+[2020.04.01 13:29:54] App Info: reading encrypted map...
+[2020.04.01 13:29:54] App Info: reading encrypted user settings...
+[2020.04.01 13:29:54] App Info: encrypted user settings read.
+[2020.04.01 13:29:54] App Info: reading encrypted mtp data...
+[2020.04.01 13:29:54] MTP Info: read keys, current: 3, to destroy: 0
+[2020.04.01 13:29:54] Map read time: 15
+[2020.04.01 13:29:54] TCP Error: network - Network unreachable
+[2020.04.01 13:29:54] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:29:54] Export Info: Destroy top bar by controller removal.
+[2020.04.01 13:29:55] Using Qt tray icon.
+[2020.04.01 13:29:55] TCP Error: network - Network unreachable
+[2020.04.01 13:29:55] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:29:55] TCP Error: network - Network unreachable
+[2020.04.01 13:29:55] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:29:55] Audio Info: recreating audio device and reattaching the tracks
+[2020.04.01 13:29:57] Audio Info: Closing audio playback device.
+[2020.04.01 13:30:06] TCP Error: network - Network unreachable
+[2020.04.01 13:30:06] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:06] TCP Error: network - Network unreachable
+[2020.04.01 13:30:06] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:15] TCP Error: network - Network unreachable
+[2020.04.01 13:30:15] TCP Error: network - Network unreachable
+[2020.04.01 13:30:15] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:15] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:15] TCP Error: network - Network unreachable
+[2020.04.01 13:30:15] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:15] TCP Error: network - Network unreachable
+[2020.04.01 13:30:15] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 13:30:15] TCP Error: network - Network unreachable
+[2020.04.01 13:30:15] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 14:08:00] API Warning: not loaded minimal channel applied.
+[2020.04.01 14:10:44] TCP Error: network - Network unreachable
+[2020.04.01 14:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 14:10:44] TCP Error: network - Network unreachable
+[2020.04.01 14:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.04.01 14:23:47] API Warning: not loaded minimal channel applied.
+[2020.04.01 14:31:03] API Warning: not loaded minimal channel applied.
+[2020.04.01 14:51:32] API Warning: not loaded minimal channel applied.
+[2020.04.01 15:01:03] API Warning: not loaded minimal channel applied.

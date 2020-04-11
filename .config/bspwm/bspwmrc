@@ -1,0 +1,44 @@
+#! /bin/sh
+
+sxhkd &
+compton &
+#Monitors and workspaces
+bash ~/.config/bspwm/saneMonitor.sh
+#bspc monitor DP2 -d V VI VII IX &
+
+#GAPS and borders
+bspc config border_width         2 &
+bspc config window_gap           8 &
+
+#BSPWM settings
+bspc config split_ratio          2 &
+bspc config borderless_monocle   true &
+bspc config gapless_monocle      true &
+bspc config focus_follows_pointer true &
+
+#Autostart
+bash ~/.config/monitor.sh &
+#xfsettingsd &
+#/usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd &
+dunst &
+setxkbmap es &
+nm-applet &
+lxpolkit &
+bash ~/.config/polybar/start.sh &
+
+#kdeconnect-indicator &
+blueberry-tray &
+nitrogen --restore &
+dash ~/.config/restart.sh &
+copyq &
+
+#Rules for apps
+bspc rule -a firefox desktop=^1 follow=on &
+bspc rule -a firefox:Toolkit state=floating &
+bspc rule -a code desktop=^2 follow=on &
+bspc rule -a spotify desktop=^9 &
+
+#workarounds
+wmname LG3D &
+xsetroot -name "BSPWM" &
+

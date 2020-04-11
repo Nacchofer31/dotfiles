@@ -1,0 +1,14 @@
+[2020-04-09 20:57:03.127] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-09 20:57:04.867] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2020-04-09 20:57:04.869] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2020-04-09 20:57:05.613] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /tmp/f17e6a33-c360-4c0d-9f83-5a6795653220
+[2020-04-09 20:57:05.688] [sharedprocess] [info] Downloaded extension: johnpapa.vscode-peacock /tmp/c454c613-6fd7-43c4-86a9-b5008c5d6d7a
+[2020-04-09 20:57:05.735] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.johnpapa.vscode-peacock-3.7.0: johnpapa.vscode-peacock
+[2020-04-09 20:57:05.736] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/johnpapa.vscode-peacock-3.7.0
+[2020-04-09 20:57:05.737] [sharedprocess] [info] Installation completed. johnpapa.vscode-peacock
+[2020-04-09 20:57:05.750] [sharedprocess] [info] Extensions installed successfully: johnpapa.vscode-peacock
+[2020-04-09 20:57:05.784] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.editorconfig.editorconfig-0.14.5: editorconfig.editorconfig
+[2020-04-09 20:57:05.784] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/editorconfig.editorconfig-0.14.5
+[2020-04-09 20:57:05.785] [sharedprocess] [info] Installation completed. editorconfig.editorconfig
+[2020-04-09 20:57:05.792] [sharedprocess] [info] Extensions installed successfully: editorconfig.editorconfig
+[2020-04-09 20:57:43.150] [sharedprocess] [info] Starting to clean up unused language packs.
