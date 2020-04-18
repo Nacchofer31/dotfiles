@@ -28,9 +28,9 @@ secondary = #0ff
 alert = #bd2c40
 
 [bar/top]
-font-3 = "Font Awesome 5 Free:size=8;3"
-font-4 = "Font Awesome 5 Free:style=Solid:size=8;1"
-font-5 = "Font Awesome 5 Brands:size=8;1"
+font-3 = "Font Awesome 5 Free:size=9;3"
+font-4 = "Font Awesome 5 Free:style=Solid:size=9;1"
+font-5 = "Font Awesome 5 Brands:size=9;1"
 monitor = ${env:MONITOR:}
 width = 99%
 height = 27
@@ -55,12 +55,12 @@ module-margin-left = 1
 module-margin-right = 2
 
 font-0 = fixed:pixelsize=9;1
-font-1 = unifont:fontformat=truetype:size=10:antialias=false;0
-font-2 = siji:pixelsize=10;1
+font-1 = unifont:fontformat=truetype:size=9:antialias=false;0
+font-2 = siji:pixelsize=9;1
 
 modules-left = bspwm
 modules-center = xwindow
-modules-right = mpd filesystem eth wlan pulseaudio backlight-acpi memory cpu battery battery2 temperature coronameter date powermenu
+modules-right = mpd filesystem pulseaudio backlight-acpi memory cpu battery battery2 temperature coronameter date powermenu
 
 tray-position = right
 tray-padding = 2

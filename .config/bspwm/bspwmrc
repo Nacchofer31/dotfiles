@@ -1,44 +1,42 @@
 #! /bin/sh
 
-sxhkd &
-compton &
+bspc rule -r "*"
+
 #Monitors and workspaces
 bash ~/.config/bspwm/saneMonitor.sh
-#bspc monitor DP2 -d V VI VII IX &
 
 #GAPS and borders
 bspc config border_width         2 &
 bspc config window_gap           8 &
 
 #BSPWM settings
-bspc config split_ratio          2 &
+bspc config split_ratio          3 &
 bspc config borderless_monocle   true &
 bspc config gapless_monocle      true &
 bspc config focus_follows_pointer true &
+bspc config focused_border_color "#1F8999"
+bspc config presel_feedback_color "#1F8999"
 
 #Autostart
+sxhkd &
 bash ~/.config/monitor.sh &
-#xfsettingsd &
-#/usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd &
+killall "dunst"
 dunst &
+killall "picom"
+picom -b &
 setxkbmap es &
+killall "nm-applet"
 nm-applet &
-lxpolkit &
 bash ~/.config/polybar/start.sh &
-
-#kdeconnect-indicator &
-blueberry-tray &
+paplay /usr/share/sounds/freedesktop/stereo/aoe2hd-sound16.wav &
 nitrogen --restore &
-dash ~/.config/restart.sh &
-copyq &
 
 #Rules for apps
-bspc rule -a firefox desktop=^1 follow=on &
-bspc rule -a firefox:Toolkit state=floating &
-bspc rule -a code desktop=^2 follow=on &
-bspc rule -a spotify desktop=^9 &
+bspc rule -add firefox desktop=^1 follow=on
+bspc rule -add firefox:Toolkit state=floating
+bspc rule -add code desktop=^2 follow=on
+bspc rule -add Spotify desktop=^9
 
 #workarounds
-wmname LG3D &
 xsetroot -name "BSPWM" &
 

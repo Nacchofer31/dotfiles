@@ -5,6 +5,7 @@
             "file:///home/igfersa/Documents/develop"
         ],
         "files2": [
+            "file:///home/igfersa/.xsession-errors",
             "file:///home/igfersa/Documents/dotfiles/50-synaptics.conf"
         ]
     },
@@ -61,6 +62,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/igfersa/.xsession-errors",
+                                        "path": "/home/igfersa/.xsession-errors",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.xsession-errors"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -591,8 +603,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1453,13 +1464,13 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/igfersa/.config/Code - OSS/Backups/1586638035882",
+            "backupPath": "/home/igfersa/.config/Code - OSS/Backups/1587204218198",
             "uiState": {
                 "mode": 1,
-                "x": 10,
-                "y": 406,
+                "x": 689,
+                "y": 42,
                 "width": 667,
-                "height": 352
+                "height": 716
             }
         },
         "openedWindows": []

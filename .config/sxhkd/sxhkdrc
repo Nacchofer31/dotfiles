@@ -29,13 +29,13 @@ alt + m
 	telegram-desktop
 
 alt + r
-	urxvt -name Ranger -e ranger
+	tilix -e ranger
 
 alt + v
 	code
 
 alt + c
- 	rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+ 	rofi -modi "clipboard:xclip -out" -show clipboard -run-command '{cmd}'
 
 super + ctrl + p
 	polybar-msg cmd toggle
@@ -217,20 +217,20 @@ super + {Left,Down,Up,Right}
 
 # increase 5 xbacklight value
 XF86MonBrightnessUp
-	xbacklight -inc 5
+	xbacklight -inc 5 ; notify-send -t 500 "Bright: ""$(xbacklight -get | cut -d '.' -f 1) "
 
 # decrease 5 xbacklight value
 XF86MonBrightnessDown
-	xbacklight -dec 5
+	xbacklight -dec 5 ; notify-send -t 500 "Bright: ""$(xbacklight -get | cut -d '.' -f 1) "
 
 # increase 5 pulseaudio value
 XF86AudioRaiseVolume
-	pamixer -i 5
+	pamixer -i 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) ♫" && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
 
 # decrease 5 pulseaudio value
 XF86AudioLowerVolume
-	pamixer -d 5
+	pamixer -d 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) ♫" && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
 
 # mute / unmute pulseaudio value
 XF86AudioMute
-	pamixer -t
+	pamixer -t ; notify-send -t 500 "Muted: $(pamixer --get-mute) ♫"
