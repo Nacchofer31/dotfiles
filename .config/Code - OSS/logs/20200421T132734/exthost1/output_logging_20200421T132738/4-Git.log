@@ -1,0 +1,56 @@
+Looking for git in: git
+Using git 2.26.1 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/igfersa/Documents/develop/Angular9/exerciseList
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/exercises/exercises.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/exercise.service.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git show :src/app/exercise.service.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts

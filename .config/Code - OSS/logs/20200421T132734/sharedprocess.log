@@ -1,0 +1,9 @@
+[2020-04-21 13:27:38.098] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-21 13:27:38.255] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/igfersa/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.3
+[2020-04-21 13:27:39.824] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-04-21 13:27:40.437] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /tmp/5c0e1aeb-eaf9-493f-980d-f65792d8d7e4
+[2020-04-21 13:27:40.589] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.formulahendry.auto-close-tag-0.5.7: formulahendry.auto-close-tag
+[2020-04-21 13:27:40.590] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.7
+[2020-04-21 13:27:40.591] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-04-21 13:27:40.605] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-04-21 13:28:18.115] [sharedprocess] [info] Starting to clean up unused language packs.

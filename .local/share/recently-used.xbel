@@ -373,32 +373,33 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/igfersa/SEAGATE/SERIES/LosSoprano" added="2020-03-28T14:04:32Z" modified="2020-03-28T14:04:32Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///run/media/igfersa/SEAGATE/SERIES/LosSoprano" added="2020-03-28T14:04:32Z" modified="2020-04-18T13:50:41Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2020-03-28T14:04:32Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-18T13:50:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/igfersa/Documents/dotfiles/pix/screenshot1.png" added="2020-03-29T13:41:15Z" modified="2020-03-29T13:41:16Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/igfersa/Documents/dotfiles/pix/screenshot1.png" added="2020-03-29T13:41:15Z" modified="2020-04-11T20:59:54Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-29T13:41:16Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T20:59:54Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/igfersa/Documents/dotfiles/pix/screenshot2.png" added="2020-03-29T13:48:06Z" modified="2020-03-29T13:48:07Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/igfersa/Documents/dotfiles/pix/screenshot2.png" added="2020-03-29T13:48:06Z" modified="2020-04-12T20:14:32Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-29T13:48:07Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T20:14:32Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -436,12 +437,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/igfersa/Documents/develop" added="2020-04-05T15:44:28Z" modified="2020-04-05T15:44:28Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/igfersa/Documents/develop" added="2020-04-05T15:44:28Z" modified="2020-04-18T13:03:48Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2020-04-05T15:44:28Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2020-04-18T13:03:48Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -502,6 +503,353 @@
         <mime:mime-type type="application/epub+zip"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-11T13:36:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Images/tonysoprano.jpg" added="2020-04-12T20:07:24Z" modified="2020-04-12T20:07:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-12T20:07:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Breaking_Bad_1_BluRay_Rip_1080p_01_07.torrent" added="2020-04-13T13:36:31Z" modified="2020-04-13T13:36:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-13T13:36:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/igfersa/SEAGATE/SERIES/Breaking%20Bad" added="2020-04-13T13:37:06Z" modified="2020-04-18T14:45:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2020-04-18T14:45:34Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/CV.pdf" added="2020-04-14T10:43:14Z" modified="2020-04-18T15:47:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-18T15:47:41Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/CV.pdf" added="2020-04-14T10:43:52Z" modified="2020-04-14T10:43:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-14T10:43:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Breaking_Bad_2_BluRay_Rip_1080p_01_13.torrent" added="2020-04-14T13:27:53Z" modified="2020-04-14T13:27:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-14T13:27:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Breaking_Bad_3_BluRay_Rip_1080p_01_13.torrent" added="2020-04-16T11:29:07Z" modified="2020-04-16T19:33:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T19:33:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/SA96Maa0GRWZ5PGO.jpg" added="2020-04-16T11:50:20Z" modified="2020-04-16T12:00:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T11:50:20Z" count="2"/>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T12:00:04Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T12:00:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/Telegram%20Desktop/photo_2020-04-16_13-50-38.jpg" added="2020-04-16T11:51:04Z" modified="2020-04-16T11:51:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T11:51:04Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T11:51:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/Telegram%20Desktop/photo_2020-04-16_13-50-43.jpg" added="2020-04-16T11:52:22Z" modified="2020-04-16T11:52:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T11:52:22Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T11:52:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/juanpiper.png" added="2020-04-16T12:01:57Z" modified="2020-04-16T12:02:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T12:01:57Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2020-04-16T12:02:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5123.wav" added="2020-04-16T17:10:10Z" modified="2020-04-16T17:10:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5110.wav" added="2020-04-16T17:10:21Z" modified="2020-04-16T17:10:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5127.wav" added="2020-04-16T17:10:27Z" modified="2020-04-16T17:10:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5134.wav" added="2020-04-16T17:10:31Z" modified="2020-04-16T17:10:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5164.wav" added="2020-04-16T17:10:35Z" modified="2020-04-16T17:10:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5272.wav" added="2020-04-16T17:10:40Z" modified="2020-04-16T17:10:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5229.wav" added="2020-04-16T17:10:44Z" modified="2020-04-16T17:10:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5276.wav" added="2020-04-16T17:10:47Z" modified="2020-04-16T17:10:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5284.wav" added="2020-04-16T17:10:53Z" modified="2020-04-16T17:10:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5011.wav" added="2020-04-16T17:10:59Z" modified="2020-04-16T17:10:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:10:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5003.wav" added="2020-04-16T17:11:02Z" modified="2020-04-16T17:11:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5031.wav" added="2020-04-16T17:11:06Z" modified="2020-04-16T17:11:06Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5012.wav" added="2020-04-16T17:11:12Z" modified="2020-04-16T17:11:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5032.wav" added="2020-04-16T17:11:17Z" modified="2020-04-16T17:11:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5045.wav" added="2020-04-16T17:11:20Z" modified="2020-04-16T17:11:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5043.wav" added="2020-04-16T17:11:24Z" modified="2020-04-16T17:11:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5061.wav" added="2020-04-16T17:11:28Z" modified="2020-04-16T17:11:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5100.wav" added="2020-04-16T17:11:32Z" modified="2020-04-16T17:11:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/igfersa/Downloads/5097.wav" added="2020-04-16T17:11:35Z" modified="2020-04-16T17:11:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-16T17:11:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/2a8a31d9-f79f-4971-b3aa-f4a7cf7e7b79-profile_image-28x28.jpeg" added="2020-04-17T18:13:22Z" modified="2020-04-17T18:13:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-17T18:13:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Breaking_Bad_4_BluRay_Rip_1080p_01_13.torrent" added="2020-04-18T12:47:40Z" modified="2020-04-18T12:47:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-18T12:47:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_igfersa0/Breaking_Bad_5_BluRay_Rip_1080p_01_16.torrent" added="2020-04-18T14:45:23Z" modified="2020-04-18T14:45:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-18T14:45:23Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -23,10 +23,10 @@
     alternate-normal-foreground: @foreground;
     normal-background:           rgba ( 39, 40, 34, 0 % );
     lightfg:                     rgba ( 88, 104, 117, 100 % );
-    selected-normal-background:  rgba ( 20, 20, 17, 70 % );
+    selected-normal-background:  rgba ( 31, 137, 153, 70 % );
     border-color:                @foreground;
     spacing:                     2;
-    separatorcolor:              rgba ( 0, 176, 255, 100 % );
+    separatorcolor:              rgba ( 109, 109, 109, 100 % );
     urgent-background:           rgba ( 39, 40, 34, 0 % );
     selected-urgent-background:  rgba ( 249, 38, 114, 100 % );
     alternate-urgent-foreground: @urgent-foreground;

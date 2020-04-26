@@ -1,0 +1,16 @@
+[2020-04-23 13:04:29.753] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-23 13:04:29.938] [sharedprocess] [info] Deleted from disk johnpapa.winteriscoming /home/igfersa/.vscode-oss/extensions/johnpapa.winteriscoming-1.4.1
+[2020-04-23 13:04:29.973] [sharedprocess] [info] Deleted from disk formulahendry.auto-rename-tag /home/igfersa/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.1
+[2020-04-23 13:04:31.592] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-04-23 13:04:31.593] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-04-23 13:04:33.049] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/12ce1337-4794-41ab-8be9-3dec4d9d368e
+[2020-04-23 13:04:33.258] [sharedprocess] [info] Downloaded extension: angular.ng-template /tmp/79aa6fae-d795-4bb0-a3e3-8ecc980feba9
+[2020-04-23 13:04:33.721] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.esbenp.prettier-vscode-4.5.0: esbenp.prettier-vscode
+[2020-04-23 13:04:33.721] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/esbenp.prettier-vscode-4.5.0
+[2020-04-23 13:04:33.726] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-04-23 13:04:34.347] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-04-23 13:04:38.723] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.angular.ng-template-0.901.3: angular.ng-template
+[2020-04-23 13:04:38.724] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3
+[2020-04-23 13:04:38.725] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-04-23 13:04:38.743] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2020-04-23 13:05:09.768] [sharedprocess] [info] Starting to clean up unused language packs.

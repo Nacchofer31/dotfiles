@@ -1,0 +1,8 @@
+[2020-04-20 13:04:15.525] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-20 13:04:18.287] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-04-20 13:04:18.928] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/df9669c9-983d-46b3-a016-c604871ebcc7
+[2020-04-20 13:04:19.221] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.1.5: dbaeumer.vscode-eslint
+[2020-04-20 13:04:19.221] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5
+[2020-04-20 13:04:19.223] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-04-20 13:04:19.254] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-04-20 13:04:55.561] [sharedprocess] [info] Starting to clean up unused language packs.

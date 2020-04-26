@@ -1,0 +1,15 @@
+[2020-04-22 13:32:05.183] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-22 13:32:05.536] [sharedprocess] [info] Deleted from disk formulahendry.auto-close-tag /home/igfersa/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.6
+[2020-04-22 13:32:07.545] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-04-22 13:32:07.545] [sharedprocess] [info] Installing extension: johnpapa.winteriscoming
+[2020-04-22 13:32:08.457] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/128b125f-02d0-463e-9be6-9feef33f7d1e
+[2020-04-22 13:32:08.516] [sharedprocess] [info] Downloaded extension: johnpapa.winteriscoming /tmp/4aa66bc3-79b6-4ac5-9f5e-a72ef9302adf
+[2020-04-22 13:32:08.950] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.formulahendry.auto-rename-tag-0.1.2: formulahendry.auto-rename-tag
+[2020-04-22 13:32:08.951] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.2
+[2020-04-22 13:32:08.981] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-04-22 13:32:09.032] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-04-22 13:32:09.634] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.johnpapa.winteriscoming-1.4.2: johnpapa.winteriscoming
+[2020-04-22 13:32:09.634] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/johnpapa.winteriscoming-1.4.2
+[2020-04-22 13:32:09.635] [sharedprocess] [info] Installation completed. johnpapa.winteriscoming
+[2020-04-22 13:32:09.651] [sharedprocess] [info] Extensions installed successfully: johnpapa.winteriscoming
+[2020-04-22 13:32:45.220] [sharedprocess] [info] Starting to clean up unused language packs.

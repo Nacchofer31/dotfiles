@@ -1,0 +1,32 @@
+[2020-04-18 15:03:20.083] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-04-18 15:04:00.096] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-18 15:15:37.383] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-04-18 15:15:37.903] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /tmp/75c8dc10-03f8-4fcb-830c-ea66c0eb0034
+[2020-04-18 15:15:38.101] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag
+[2020-04-18 15:15:38.101] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.6
+[2020-04-18 15:15:38.102] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-04-18 15:15:38.109] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-04-18 15:16:09.230] [sharedprocess] [info] Installing extension: steoates.autoimport
+[2020-04-18 15:16:09.733] [sharedprocess] [info] Downloaded extension: steoates.autoimport /tmp/c0700c66-a4df-4876-b135-15e48adb1dba
+[2020-04-18 15:16:55.335] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.steoates.autoimport-1.5.3: steoates.autoimport
+[2020-04-18 15:16:55.335] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/steoates.autoimport-1.5.3
+[2020-04-18 15:16:55.336] [sharedprocess] [info] Installation completed. steoates.autoimport
+[2020-04-18 15:16:55.343] [sharedprocess] [info] Extensions installed successfully: steoates.autoimport
+[2020-04-18 15:17:05.891] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-04-18 15:17:06.141] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/39c075c2-b7e2-4b82-8316-67a791e2b6a1
+[2020-04-18 15:17:06.230] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.formulahendry.auto-rename-tag-0.1.1: formulahendry.auto-rename-tag
+[2020-04-18 15:17:06.230] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.1
+[2020-04-18 15:17:06.232] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-04-18 15:17:06.237] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-04-18 15:17:33.259] [sharedprocess] [info] Installing extension: pranaygp.vscode-css-peek
+[2020-04-18 15:17:34.250] [sharedprocess] [info] Downloaded extension: pranaygp.vscode-css-peek /tmp/9b4c14d8-d185-4985-9814-6483ab13a2d3
+[2020-04-18 15:18:02.001] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.pranaygp.vscode-css-peek-3.0.2: pranaygp.vscode-css-peek
+[2020-04-18 15:18:02.001] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/pranaygp.vscode-css-peek-3.0.2
+[2020-04-18 15:18:02.003] [sharedprocess] [info] Installation completed. pranaygp.vscode-css-peek
+[2020-04-18 15:18:02.014] [sharedprocess] [info] Extensions installed successfully: pranaygp.vscode-css-peek
+[2020-04-18 15:18:14.417] [sharedprocess] [info] Installing extension: wayou.vscode-todo-highlight
+[2020-04-18 15:18:14.881] [sharedprocess] [info] Downloaded extension: wayou.vscode-todo-highlight /tmp/d85e9ee2-f050-4426-8e79-cb54ca2271a5
+[2020-04-18 15:18:15.074] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.wayou.vscode-todo-highlight-1.0.4: wayou.vscode-todo-highlight
+[2020-04-18 15:18:15.074] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/wayou.vscode-todo-highlight-1.0.4
+[2020-04-18 15:18:15.076] [sharedprocess] [info] Installation completed. wayou.vscode-todo-highlight
+[2020-04-18 15:18:15.081] [sharedprocess] [info] Extensions installed successfully: wayou.vscode-todo-highlight

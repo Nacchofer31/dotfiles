@@ -2,12 +2,12 @@
 # Nacchofer31 Hotkeys
 #
 
-# terminal emulator
-alt + Return
-	sh -c "$HOME/.bin/draw"
-
+# terminal
 super + Return
 	 tilix
+
+alt + Return
+	rofi -show run -theme Monokai
 
 alt + t
 	thunar
@@ -15,9 +15,6 @@ alt + t
 # program launcher
 alt + d
 	rofi -show drun -theme Monokai
-
-alt + w
-	chromium
 
 alt + s
 	spotify
@@ -225,12 +222,25 @@ XF86MonBrightnessDown
 
 # increase 5 pulseaudio value
 XF86AudioRaiseVolume
-	pamixer -i 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) ♫" && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
+	pamixer -i 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) " && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
 
 # decrease 5 pulseaudio value
 XF86AudioLowerVolume
-	pamixer -d 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) ♫" && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
+	pamixer -d 5 ; notify-send -t 500 "Sound: $(pamixer --get-volume-human) " && paplay /usr/share/sounds/freedesktop/stereo/bell.oga
 
-# mute / unmute pulseaudio value
+# toggle pulseaudio volume mute value
 XF86AudioMute
-	pamixer -t ; notify-send -t 500 "Muted: $(pamixer --get-mute) ♫"
+	pamixer -t ; notify-send -t 500 "Muted: $(pamixer --get-mute) "
+
+# toogle pulseaudio mic volume mute value
+XF86AudioMicMute
+	pactl set-source-mute 1 toggle ; notify-send -t 500 "Muted Mic "
+
+# launch fontawesome icon menu
+XF86LaunchA
+	sh -c "$HOME/.config/fontawesome-menu/fontawesome-menu -f $HOME/.config/fontawesome-menu/fa5-icon-list.txt -o '-i -columns 4'" && notify-send -t 1000 "$(xclip -o -selection clipboard) copied to clipboard"
+
+# launch emoji icon menu
+XF86Explorer
+	notify-send -t 1000 "$(xclip -o -selection clipboard) copied to clipboard"
+

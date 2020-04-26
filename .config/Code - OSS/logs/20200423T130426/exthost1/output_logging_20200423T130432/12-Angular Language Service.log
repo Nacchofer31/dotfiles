@@ -1,0 +1,5 @@
+[Info  - 13:04:32] Angular language server process ID: 3387
+[Info  - 13:04:32] Using typescript v3.8.3 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.2/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 13:04:32] Using @angular/language-service v9.1.2 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.2/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 13:04:32] Log file: /home/igfersa/.config/Code - OSS/logs/20200423T130426/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 13:04:42] Enabling language service for /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json.
