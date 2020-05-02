@@ -6,12 +6,12 @@
 
 - Settings for:
 	- vim/nvim (text editor)
-	- bash (shell)
+	- zsh (shell)
 	- bspwm (window manager)
 	- sxhkd (general key binder)
 	- ranger (file manager)
 	- thunar (file manager)
-	- tmux
+	- tmux (terminal)
 	- compton (window compositor)
 - Useful scripts in './scripts'
 - Configs in ./config/
