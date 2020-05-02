@@ -10,10 +10,10 @@
     <tag>redondo</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-image" checksum="5eda52ef5b2ab3e3a6f76ef448880170">
+  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-mask" checksum="b1d64ba8197b229c8d3231d291bcdb71">
+  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -772,7 +772,7 @@
   <resource identifier="${mypaint_brushes_dir}/ramon/wet_round.myb" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard-image" checksum="6ff5bd1f362f8c6fc1e9e87ec8b876a6">
+  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
@@ -1681,6 +1681,9 @@
   <resource identifier="Font Awesome 5 Free Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="FontAwesome" checksum="(null)">
+  </resource>
+
   <resource identifier="FreeMono" checksum="(null)">
   </resource>
 
@@ -1717,10 +1720,49 @@
   <resource identifier="FreeSerif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Hack Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack NF" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack NF Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack NF Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack NF Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="HAN NOM A" checksum="(null)">
   </resource>
 
   <resource identifier="HAN NOM B" checksum="(null)">
+  </resource>
+
+  <resource identifier="icomoon" checksum="(null)">
   </resource>
 
   <resource identifier="IPAGothic" checksum="(null)">
@@ -1733,6 +1775,54 @@
   </resource>
 
   <resource identifier="IPAPMincho" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1798,6 +1888,9 @@
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="octicons Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="P052" checksum="(null)">
   </resource>
 
@@ -1808,6 +1901,9 @@
   </resource>
 
   <resource identifier="P052 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pomodoro" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">
@@ -1838,6 +1934,9 @@
   </resource>
 
   <resource identifier="Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Siji" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Pro" checksum="(null)">
@@ -1931,6 +2030,18 @@
   </resource>
 
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unifont CSUR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unifont Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unifont Upper Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unifont-JP Medium" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">

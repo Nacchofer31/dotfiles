@@ -1,0 +1,276 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/igfersa/Documents/develop/Angular9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :exerciseList/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app-routing.module.ts
+> git cat-file -s 2b78d7d1e5c6bd8447240e4397d2000d6444e10a
+> git show :exerciseList/src/app/panel/panel.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.html
+> git cat-file -s 794748a1f67f221a8cd7b6741bef9965ab340cd5
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git cat-file -s f758ef16cf63b06a235d435312c254fc85ecf683
+> git show :exerciseList/src/app/exercises/exercises.component.css
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.css
+> git cat-file -s 97e8269c18c7d593ae254f978e9e68405f69d8aa
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git show :exerciseList/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app-routing.module.ts
+> git cat-file -s 2b78d7d1e5c6bd8447240e4397d2000d6444e10a
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git cat-file -s f758ef16cf63b06a235d435312c254fc85ecf683
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git cat-file -s f758ef16cf63b06a235d435312c254fc85ecf683
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :exerciseList/src/app/panel/panel.component.css
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git cat-file -s f758ef16cf63b06a235d435312c254fc85ecf683
+> git show :exerciseList/src/app/panel/panel.component.css
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git cat-file -s f758ef16cf63b06a235d435312c254fc85ecf683
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :exerciseList/src/app/panel/panel.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.html
+> git cat-file -s 794748a1f67f221a8cd7b6741bef9965ab340cd5
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 6681c3c8f7818ad04b3193670a0f773c1a02628d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git show :exerciseList/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git show :exerciseList/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git show :exerciseList/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git

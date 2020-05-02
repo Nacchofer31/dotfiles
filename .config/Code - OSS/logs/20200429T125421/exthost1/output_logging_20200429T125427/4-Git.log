@@ -1,0 +1,184 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/igfersa/Documents/develop/Angular9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 6681c3c8f7818ad04b3193670a0f773c1a02628d
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 6681c3c8f7818ad04b3193670a0f773c1a02628d
+> git show :exerciseList/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git show :exerciseList/src/app/panel/panel.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git show :exerciseList/src/app/exercises/exercises.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.html
+> git cat-file -s ed23a48ad95417607b78db90e9809b91a5599dc1
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git show :exerciseList/src/app/panel/panel.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.html
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 6681c3c8f7818ad04b3193670a0f773c1a02628d
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :exerciseList/src/app/panel/panel.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.html
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :exerciseList/src/app/panel/panel.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts
+> git show :exerciseList/src/app/exercises/exercises.component.ts
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts
+> git cat-file -s 12c863ecfa90bd9179ece4bc5428c8ce705f94c2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

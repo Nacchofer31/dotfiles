@@ -7,4 +7,9 @@
     "editor.lineNumbers": "relative",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredLightColorTheme": "Abyss",
+    "workbench.preferredHighContrastColorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "window.menuBarVisibility": "toggle",
 }

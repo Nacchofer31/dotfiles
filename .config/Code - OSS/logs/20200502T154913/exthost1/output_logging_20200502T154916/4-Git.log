@@ -1,0 +1,22 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/igfersa/Documents/develop/Angular9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3
+> git check-ignore -v -z --stdin
+> git show :exerciseList/src/app/app.component.html
+> git ls-files --stage -- /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html
+> git cat-file -s 3b30eaa0bbb302bab4e63da042d529a1b88822f3

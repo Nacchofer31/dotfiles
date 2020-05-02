@@ -1,0 +1,277 @@
+Info 0    [13:45:17.119] Format host information updated
+Info 1    [13:45:17.120] reload projects.
+Info 2    [13:45:17.120] Structure before ensureProjectForOpenFiles:
+Info 3    [13:45:17.120] Structure after ensureProjectForOpenFiles:
+Info 4    [13:45:17.120] Host file extension mappings updated
+Info 5    [13:45:17.149] Search path: /home/igfersa/Documents/develop/Angular9/exerciseList/src/app
+Info 6    [13:45:17.151] For info: /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app-routing.module.ts :: Config file name: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 7    [13:45:17.152] Opened configuration file /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 8    [13:45:17.219] Config: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json : {
+ "rootNames": [
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/e2e/src/app.e2e-spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/e2e/src/app.po.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/main.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/polyfills.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/test.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app-routing.module.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.module.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/collection-exercises.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise-detail/exercise-detail.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise-detail/exercise-detail.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/environments/environment.prod.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/igfersa/Documents/develop/Angular9/exerciseList",
+  "outDir": "/home/igfersa/Documents/develop/Angular9/exerciseList/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json"
+ }
+}
+Info 9    [13:45:21.759] Loading global plugin @angular/language-service
+Info 10   [13:45:21.759] Enabling plugin @angular/language-service from candidate paths: /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [13:45:21.759] Loading @angular/language-service from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [13:45:21.988] Plugin validation succeded
+Info 13   [13:45:22.60] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 14   [13:45:28.993] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 1 structureChanged: true Elapsed: 6933ms
+Info 15   [13:45:28.993] Project '/home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json' (Configured) 
+Info 16   [13:45:28.993] 	Files (320)
+
+Info 17   [13:45:28.993] -----------------------------------------------
+Info 18   [13:45:28.997] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 19   [13:45:29.40] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 2 structureChanged: false Elapsed: 43ms
+Info 20   [13:45:29.40] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 21   [13:45:29.54] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 22   [13:45:29.106] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 3 structureChanged: false Elapsed: 52ms
+Info 23   [13:45:29.106] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 24   [13:45:30.124] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 25   [13:45:30.145] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 4 structureChanged: false Elapsed: 21ms
+Info 26   [13:45:30.145] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 27   [13:45:30.170] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 28   [13:45:30.188] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 5 structureChanged: false Elapsed: 18ms
+Info 29   [13:45:30.188] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 30   [13:45:30.489] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 31   [13:45:30.513] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 6 structureChanged: false Elapsed: 24ms
+Info 32   [13:45:30.513] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 33   [13:45:30.932] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 34   [13:45:30.948] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 7 structureChanged: false Elapsed: 16ms
+Info 35   [13:45:30.948] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 36   [13:45:31.290] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 37   [13:45:31.376] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 8 structureChanged: true Elapsed: 86ms
+Info 38   [13:45:31.376] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 39   [13:45:32.260] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 40   [13:45:32.276] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 9 structureChanged: false Elapsed: 16ms
+Info 41   [13:45:32.277] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 42   [13:45:35.130] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 43   [13:45:35.158] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 10 structureChanged: false Elapsed: 27ms
+Info 44   [13:45:35.158] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 45   [13:45:57.213] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 46   [13:45:57.235] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 11 structureChanged: false Elapsed: 22ms
+Info 47   [13:45:57.235] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 48   [13:45:58.493] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 49   [13:45:58.514] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 12 structureChanged: false Elapsed: 21ms
+Info 50   [13:45:58.514] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 51   [13:45:59.534] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 52   [13:45:59.564] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 13 structureChanged: false Elapsed: 30ms
+Info 53   [13:45:59.564] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 54   [13:45:59.904] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 55   [13:45:59.974] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 14 structureChanged: false Elapsed: 70ms
+Info 56   [13:45:59.974] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 57   [13:46:0.296] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 58   [13:46:0.324] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 15 structureChanged: false Elapsed: 28ms
+Info 59   [13:46:0.324] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 60   [13:46:0.595] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 61   [13:46:0.611] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 16 structureChanged: false Elapsed: 16ms
+Info 62   [13:46:0.611] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 63   [13:46:1.426] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 64   [13:46:1.441] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 17 structureChanged: false Elapsed: 15ms
+Info 65   [13:46:1.441] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 66   [13:46:3.794] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 67   [13:46:3.810] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 18 structureChanged: false Elapsed: 16ms
+Info 68   [13:46:3.810] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 69   [13:46:7.437] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 70   [13:46:7.470] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 19 structureChanged: false Elapsed: 33ms
+Info 71   [13:46:7.470] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 72   [13:46:7.727] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 73   [13:46:7.753] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 20 structureChanged: false Elapsed: 26ms
+Info 74   [13:46:7.753] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 75   [13:46:9.4] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 76   [13:46:9.18] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 21 structureChanged: false Elapsed: 14ms
+Info 77   [13:46:9.18] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [13:46:11.773] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 79   [13:46:11.790] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 22 structureChanged: false Elapsed: 17ms
+Info 80   [13:46:11.791] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 81   [13:46:12.351] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 82   [13:46:12.363] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 23 structureChanged: false Elapsed: 11ms
+Info 83   [13:46:12.363] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 84   [13:46:12.594] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 85   [13:46:12.622] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 24 structureChanged: false Elapsed: 28ms
+Info 86   [13:46:12.622] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 87   [13:46:13.384] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 88   [13:46:13.406] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 25 structureChanged: false Elapsed: 22ms
+Info 89   [13:46:13.406] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 90   [13:46:14.390] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 91   [13:46:14.412] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 26 structureChanged: false Elapsed: 22ms
+Info 92   [13:46:14.413] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 93   [13:46:14.894] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 94   [13:46:14.914] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 27 structureChanged: false Elapsed: 20ms
+Info 95   [13:46:14.914] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 96   [13:46:15.684] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 97   [13:46:15.695] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 28 structureChanged: false Elapsed: 11ms
+Info 98   [13:46:15.695] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 99   [13:46:15.990] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 100  [13:46:16.9] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 29 structureChanged: false Elapsed: 19ms
+Info 101  [13:46:16.9] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 102  [13:46:16.320] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 103  [13:46:16.330] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 30 structureChanged: false Elapsed: 10ms
+Info 104  [13:46:16.331] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 105  [13:46:19.785] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 106  [13:46:19.795] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 31 structureChanged: false Elapsed: 10ms
+Info 107  [13:46:19.796] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 108  [13:48:4.548] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 109  [13:48:4.563] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 32 structureChanged: false Elapsed: 14ms
+Info 110  [13:48:4.563] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 111  [13:48:4.886] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 112  [13:48:4.904] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 33 structureChanged: false Elapsed: 18ms
+Info 113  [13:48:4.904] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 114  [13:48:5.697] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 115  [13:48:5.713] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 34 structureChanged: false Elapsed: 16ms
+Info 116  [13:48:5.713] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 117  [13:48:6.84] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 118  [13:48:6.102] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 35 structureChanged: false Elapsed: 18ms
+Info 119  [13:48:6.102] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 120  [13:48:6.419] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 121  [13:48:6.439] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 36 structureChanged: false Elapsed: 20ms
+Info 122  [13:48:6.440] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 123  [13:48:7.17] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 124  [13:48:7.37] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 37 structureChanged: false Elapsed: 20ms
+Info 125  [13:48:7.37] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 126  [13:48:7.730] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 127  [13:48:7.753] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 38 structureChanged: false Elapsed: 23ms
+Info 128  [13:48:7.753] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 129  [13:48:8.752] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 130  [13:48:8.783] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 39 structureChanged: false Elapsed: 30ms
+Info 131  [13:48:8.783] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 132  [13:48:9.680] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 133  [13:48:9.696] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 40 structureChanged: false Elapsed: 16ms
+Info 134  [13:48:9.696] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 135  [13:48:10.151] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 136  [13:48:10.187] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 41 structureChanged: false Elapsed: 35ms
+Info 137  [13:48:10.187] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 138  [13:48:14.735] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 139  [13:48:14.755] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 42 structureChanged: false Elapsed: 20ms
+Info 140  [13:48:14.755] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 141  [13:48:27.628] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 142  [13:48:27.643] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 43 structureChanged: false Elapsed: 15ms
+Info 143  [13:48:27.643] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 144  [13:48:28.251] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 145  [13:48:28.287] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 44 structureChanged: false Elapsed: 36ms
+Info 146  [13:48:28.287] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 147  [13:48:28.654] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 148  [13:48:28.681] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 45 structureChanged: false Elapsed: 27ms
+Info 149  [13:48:28.681] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 150  [13:48:29.499] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 151  [13:48:29.519] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 46 structureChanged: false Elapsed: 20ms
+Info 152  [13:48:29.519] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 153  [13:48:29.952] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 154  [13:48:29.971] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 47 structureChanged: false Elapsed: 19ms
+Info 155  [13:48:29.971] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 156  [13:48:39.976] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 157  [13:48:39.992] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 48 structureChanged: false Elapsed: 16ms
+Info 158  [13:48:39.992] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 159  [13:48:44.169] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 160  [13:48:44.198] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 49 structureChanged: false Elapsed: 29ms
+Info 161  [13:48:44.198] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 162  [13:48:45.187] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 163  [13:48:45.202] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 50 structureChanged: false Elapsed: 15ms
+Info 164  [13:48:45.202] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 165  [13:48:47.960] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 166  [13:48:47.974] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 51 structureChanged: false Elapsed: 14ms
+Info 167  [13:48:47.974] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 168  [13:48:49.794] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 169  [13:48:49.808] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 52 structureChanged: false Elapsed: 14ms
+Info 170  [13:48:49.808] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 171  [13:48:51.252] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 172  [13:48:51.262] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 53 structureChanged: false Elapsed: 10ms
+Info 173  [13:48:51.262] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 174  [13:48:54.764] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 175  [13:48:54.795] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 54 structureChanged: false Elapsed: 31ms
+Info 176  [13:48:54.795] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 177  [13:48:55.332] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 178  [13:48:55.352] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 55 structureChanged: false Elapsed: 20ms
+Info 179  [13:48:55.352] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 180  [13:48:56.358] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 181  [13:48:56.378] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 56 structureChanged: false Elapsed: 20ms
+Info 182  [13:48:56.378] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 183  [13:48:58.205] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 184  [13:48:58.247] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 57 structureChanged: false Elapsed: 42ms
+Info 185  [13:48:58.247] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 186  [13:48:58.528] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 187  [13:48:58.542] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 58 structureChanged: false Elapsed: 14ms
+Info 188  [13:48:58.542] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 189  [13:48:58.897] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 190  [13:48:58.912] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 59 structureChanged: false Elapsed: 15ms
+Info 191  [13:48:58.912] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 192  [13:48:59.354] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 193  [13:48:59.365] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 60 structureChanged: false Elapsed: 11ms
+Info 194  [13:48:59.365] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 195  [13:49:2.330] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 196  [13:49:2.342] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 61 structureChanged: false Elapsed: 12ms
+Info 197  [13:49:2.342] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 198  [13:49:3.485] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 199  [13:49:3.497] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 62 structureChanged: false Elapsed: 12ms
+Info 200  [13:49:3.497] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 201  [13:49:3.996] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 202  [13:49:4.17] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 63 structureChanged: false Elapsed: 21ms
+Info 203  [13:49:4.17] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 204  [13:49:4.243] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 205  [13:49:4.258] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 64 structureChanged: false Elapsed: 15ms
+Info 206  [13:49:4.258] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 207  [13:49:4.498] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 208  [13:49:4.528] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 65 structureChanged: false Elapsed: 29ms
+Info 209  [13:49:4.528] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 210  [13:49:6.953] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 211  [13:49:6.962] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 66 structureChanged: false Elapsed: 9ms
+Info 212  [13:49:6.962] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 213  [13:49:36.973] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Wild card directory
+Info 214  [13:49:36.974] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Wild card directory
+Info 215  [13:49:36.974] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 216  [13:49:36.978] Elapsed:: 4ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 217  [13:49:36.978] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Failed Lookup Locations
+Info 218  [13:49:36.979] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Failed Lookup Locations
+Info 219  [13:49:37.253] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 220  [13:49:38.949] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 67 structureChanged: true Elapsed: 1695ms
+Info 221  [13:49:38.950] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 222  [13:49:38.952] Structure before ensureProjectForOpenFiles:
+Info 223  [13:49:38.952] Structure after ensureProjectForOpenFiles:
+Info 224  [13:49:40.279] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Wild card directory
+Info 225  [13:49:40.279] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Wild card directory
+Info 226  [13:49:40.279] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 227  [13:49:40.282] Elapsed:: 3ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 228  [13:49:40.282] DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Failed Lookup Locations
+Info 229  [13:49:40.282] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules :: WatchInfo: /home/igfersa/Documents/develop/Angular9/exerciseList/node_modules 1 undefined Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json WatchType: Failed Lookup Locations
+Info 230  [13:49:40.544] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 231  [13:49:41.601] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 68 structureChanged: true Elapsed: 1057ms
+Info 232  [13:49:41.602] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 233  [13:49:41.603] Structure before ensureProjectForOpenFiles:
+Info 234  [13:49:41.603] Structure after ensureProjectForOpenFiles:

@@ -5,6 +5,7 @@
             "file:///home/igfersa/Documents/develop"
         ],
         "files2": [
+            "file:///tmp/mozilla_igfersa0/rockyou.txt",
             "file:///home/igfersa/.xsession-errors",
             "file:///home/igfersa/Documents/dotfiles/50-synaptics.conf"
         ]
@@ -63,6 +64,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/mozilla_igfersa0/rockyou.txt",
+                                        "path": "/tmp/mozilla_igfersa0/rockyou.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/mozilla_igfersa0/rockyou.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -394,8 +406,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
-                                    "checked": true
+                                    "label": "Show Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -1470,7 +1481,7 @@
                 "mode": 1,
                 "x": 10,
                 "y": 42,
-                "width": 1346,
+                "width": 667,
                 "height": 716
             }
         },

@@ -18,8 +18,8 @@ bspc config presel_feedback_color "#1F8999"
 sxhkd &
 killall "dunst"
 dunst &
-killall "picom"
-picom -b &
+killall "compton"
+compton --config ~/.config/compton/compton.conf &
 setxkbmap es &
 killall "nm-applet"
 nm-applet &
@@ -38,4 +38,5 @@ bspc rule -add Spotify desktop=^9
 
 #workarounds
 xsetroot -name "BSPWM" &
+wmname LG3D &
 

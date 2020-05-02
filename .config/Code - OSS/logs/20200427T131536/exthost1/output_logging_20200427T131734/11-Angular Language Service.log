@@ -1,0 +1,6 @@
+[Info  - 13:17:34] Angular language server process ID: 9200
+[Info  - 13:17:34] Using typescript v3.8.3 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 13:17:34] Using @angular/language-service v9.1.3 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 13:17:34] Log file: /home/igfersa/.config/Code - OSS/logs/20200427T131536/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 13:17:40] Enabling language service for /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json.
+[Error - 13:17:40] No config file for /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html

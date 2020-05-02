@@ -355,6 +355,7 @@
 <span lang='door-closed' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf52a;</span>  Door Closed
 <span lang='door-open' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf52b;</span>  Door Open
 <span lang='dot-circle' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf192;</span>  Dot Circle
+<span lang='dot-circle' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf111;</span>  Solid Circle
 <span lang='dove' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf4ba;</span>  Dove
 <span lang='download' weight="normal" fallback="true" face='font Awesome 5 solid'>&#xf019;</span>  Download
 <span lang='draft2digital' weight="normal" fallback="true" face='font Awesome 5 brands'>&#xf396;</span>  Draft2digital
