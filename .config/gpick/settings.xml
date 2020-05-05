@@ -26,14 +26,14 @@
 </layout_preview>
 <main type="dynv">
 <color_source type="string">color_picker</color_source>
-<paned_position type="int32">461</paned_position>
+<paned_position type="int32">469</paned_position>
 <secondary_color_source type="string"></secondary_color_source>
 <vertical_paned_position type="int32">0</vertical_paned_position>
 <window type="dynv">
-<height type="int32">441</height>
-<width type="int32">601</width>
-<x type="int32">302</x>
-<y type="int32">283</y>
+<height type="int32">716</height>
+<width type="int32">667</width>
+<x type="int32">687</x>
+<y type="int32">40</y>
 </window>
 </main>
 <options type="dynv">
@@ -61,12 +61,12 @@
 <oversample type="int32">0</oversample>
 </sampler>
 <swatch type="dynv">
-<active_color type="int32">3</active_color>
+<active_color type="int32">6</active_color>
 <color1 type="color">0.580392 0.45098 0.0156863 4.58883e-41</color1>
 <color2 type="color">0.776471 0.686275 0.121569 4.56711e-41</color2>
 <color3 type="color">0.428571 0.428571 0.428571 0</color3>
-<color4 type="color">0.571429 0.571429 0.571429 0</color4>
-<color5 type="color">0.714286 0.714286 0.714286 0</color5>
+<color4 type="color">0.0627451 0.517647 0.588235 4.58995e-41</color4>
+<color5 type="color">0.654902 0.435294 0.988235 4.56949e-41</color5>
 <color6 type="color">0.857143 0.857143 0.857143 0</color6>
 </swatch>
 <zoom type="float">20</zoom>

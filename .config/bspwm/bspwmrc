@@ -31,10 +31,11 @@ nitrogen --restore &
 bash ~/.config/bspwm/saneMonitor.sh
 
 #Rules for apps
-bspc rule -add firefox desktop=^1 follow=on
-bspc rule -add firefox:Toolkit state=floating
-bspc rule -add code desktop=^2 follow=on
-bspc rule -add Spotify desktop=^9
+bspc rule -a firefox desktop='^1' follow=on
+bspc rule -a firefox:Toolkit state=floating
+bspc rule -a code desktop='^2' follow=on
+bspc rule -a "Spotify" desktop='^9'
+bspc rule -a Gpick state=floating
 
 #workarounds
 xsetroot -name "BSPWM" &

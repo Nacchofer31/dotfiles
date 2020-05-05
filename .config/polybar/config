@@ -19,8 +19,8 @@
 [colors]
 ;background = ${xrdb:color0:#222}
 background = #bf101010
-background-alt = #5965b4bb
-;foreground = ${xrdb:color7:#222}
+background-alt = #444
+,foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #999
 primary = #fff
@@ -28,17 +28,13 @@ secondary = #0ff
 alert = #bd2c40
 
 [bar/top]
-font-3 = Font Awesome 5 Free:size=9;1
-font-4 = Font Awesome 5 Free:style=Solid:size=9;1
-font-5 = Font Awesome 5 Brands:size=9;1
-font-6 = Hack Nerd Font Mono:pixelsize=10;
 
 monitor = ${env:MONITOR:}
 width = 99%
 height = 27
 offset-x = 0.5%
 offset-y = 0.7%
-radius = 0
+radius = 10
 fixed-center = false
 
 background = ${colors.background}
@@ -56,14 +52,14 @@ padding-right = 1
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=9;1
-font-1 = unifont:fontformat=truetype:size=9:antialias=false;1
-font-2 = siji:pixelsize=9;1
-
+font-0 = fixed:pixelsize=9;3
+font-1 = unifont:fontformat=truetype:size=8:antialias=false;2
+font-2 = siji:pixelsize=9;2
+font-3 = Hack Nerd Font Mono:pixelsize=13;4
 
 modules-left = bspwm
 modules-center = xwindow
-modules-right = mpd filesystem pulseaudio backlight-acpi memory cpu battery battery2 temperature coronameter date powermenu
+modules-right = filesystem pulseaudio backlight-acpi memory cpu battery battery2 temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -107,7 +103,7 @@ interval = 10
 
 mount-0 = /
 
-label-mounted =  %{F#FFF}%mountpoint%%{F-}: %percentage_used%%
+label-mounted = %{F#108496} %{F#FFF}%mountpoint%%{F-}: %percentage_used%%
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.foreground-alt}
 
@@ -115,20 +111,21 @@ label-unmounted-foreground = ${colors.foreground-alt}
 type = internal/bspwm
 
 pin-workspaces = true
-label-focused = %index%
+label-focused = 
 label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
+;label-focused-underline= ${colors.primary}
 label-focused-padding = 2
 
-label-occupied = %index%
+label-occupied = 
 label-occupied-padding = 2
+;label-occupied-foreground = ${colors.foreground-alt}
 ;label-occupied-background = #99444444
 
-label-urgent = %index%!
+label-urgent = 
 label-urgent-background = ${colors.alert}
 label-urgent-padding = 2
 
-label-empty = %index%
+label-empty = 
 label-empty-foreground = ${colors.foreground-alt}
 label-empty-padding = 2
 
@@ -189,7 +186,7 @@ label-song-ellipsis = true
 type = internal/light
 
 format = <label> <bar>
-label = 
+label = %{F#A76FFC}
 
 bar-width = 3
 bar-indicator = |
@@ -212,16 +209,16 @@ type = internal/cpu
 interval = 2
 format-prefix =
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #f90000
-label =%percentage:2%%
+;format-underline = #f90000
+label =%{F#2495e7} %{F#fff}%percentage:2%%
 
 [module/memory]
 type = internal/memory
 interval = 2
 format-prefix =
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #4bffdc
-label =  %percentage_used%%
+,format-underline = #4bffdc
+label =%{F#1bbf3e} %{F#fff}%percentage_used%%
 
 [module/wlan]
 type = internal/network
@@ -269,11 +266,11 @@ date =
 date-alt = " %d-%m-%Y"
 
 time = %H:%M
-time-alt = %H:%M:%S
+time-alt =  %H:%M:%S
 
 format-prefix =
 format-prefix-foreground = ${colors.foreground}
-format-underline = #0a6cf5
+,format-underline = #0a6cf5
 
 label = %date% %time%
 
@@ -281,10 +278,10 @@ label = %date% %time%
 type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
-label-volume =  %percentage%%
+label-volume = %{F#C6AF1F} %{F#fff}%percentage%%
 label-volume-foreground = ${root.foreground}
 
-label-muted =  mute
+label-muted =  mute
 label-muted-foreground = #bd2c40
 
 
@@ -312,7 +309,7 @@ format-volume = <label-volume> <bar-volume>
 label-volume = VOL
 label-volume-foreground = ${root.foreground}
 
-format-muted-prefix = 
+format-muted-prefix = 
 format-muted-foreground = ${colors.foreground-alt}
 label-muted = sound muted
 
@@ -346,7 +343,7 @@ format-discharging = <ramp-capacity> <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
 format-full-prefix= 
 format-full-prefix-foreground = ${colors.foreground}
-format-full-underline = ${self.format-charging-underline}
+,format-full-underline = ${self.format-charging-underline}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -382,7 +379,7 @@ format-discharging = <ramp-capacity> <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
 format-full-prefix= 
 format-full-prefix-foreground = ${colors.foreground}
-format-full-underline = ${self.format-charging-underline}
+,format-full-underline = ${self.format-charging-underline}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -411,12 +408,12 @@ thermal-zone = 0
 warn-temperature = 60
 
 format = <label>
-format-underline = #f50a4d
+,format-underline = #f50a4d
 format-warn = <label-warn>
-format-warn-underline = ${self.format-underline}
+,format-warn-underline = ${self.format-underline}
 
-label = %temperature-c%
-label-warn = %temperature-c%
+label =  %temperature-c%
+label-warn =  %temperature-c%
 label-warn-foreground = ${colors.secondary}
 
 ramp-0 = 

@@ -1,0 +1,8 @@
+[2020-05-03 20:50:23.805] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
+[2020-05-03 20:50:26.420] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2020-05-03 20:50:27.489] [sharedprocess] [info] Downloaded extension: nrwl.angular-console /tmp/95506e67-d86c-4154-b56b-7b7a53bea87f
+[2020-05-03 20:50:29.716] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.nrwl.angular-console-12.0.0: nrwl.angular-console
+[2020-05-03 20:50:29.716] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/nrwl.angular-console-12.0.0
+[2020-05-03 20:50:29.717] [sharedprocess] [info] Installation completed. nrwl.angular-console
+[2020-05-03 20:50:29.780] [sharedprocess] [info] Extensions installed successfully: nrwl.angular-console
+[2020-05-03 20:51:03.854] [sharedprocess] [info] Starting to clean up unused language packs.

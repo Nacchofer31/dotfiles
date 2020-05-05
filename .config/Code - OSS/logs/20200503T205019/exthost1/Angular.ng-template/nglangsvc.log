@@ -1,0 +1,73 @@
+Info 0    [20:50:28.446] Format host information updated
+Info 1    [20:50:28.447] reload projects.
+Info 2    [20:50:28.447] Structure before ensureProjectForOpenFiles:
+Info 3    [20:50:28.447] Structure after ensureProjectForOpenFiles:
+Info 4    [20:50:28.447] Host file extension mappings updated
+Info 5    [20:50:28.594] Search path: /home/igfersa/Documents/develop/Angular9/exerciseList/src/app
+Info 6    [20:50:28.596] For info: /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.html :: Config file name: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 7    [20:50:28.596] Opened configuration file /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 8    [20:50:28.765] Config: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json : {
+ "rootNames": [
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/e2e/src/app.e2e-spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/e2e/src/app.po.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/main.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/polyfills.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/test.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app-routing.module.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/app.module.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/collection-exercises.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.service.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise-detail/exercise-detail.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercise-detail/exercise-detail.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.spec.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/app/panel/panel.component.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/environments/environment.prod.ts",
+  "/home/igfersa/Documents/develop/Angular9/exerciseList/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/igfersa/Documents/develop/Angular9/exerciseList",
+  "outDir": "/home/igfersa/Documents/develop/Angular9/exerciseList/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json"
+ }
+}
+Info 9    [20:50:33.955] Loading global plugin @angular/language-service
+Info 10   [20:50:33.955] Enabling plugin @angular/language-service from candidate paths: /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [20:50:33.955] Loading @angular/language-service from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [20:50:34.224] Plugin validation succeded
+Info 13   [20:50:34.312] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 14   [20:50:42.392] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 1 structureChanged: true Elapsed: 8080ms
+Info 15   [20:50:42.392] Project '/home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json' (Configured) 
+Info 16   [20:50:42.392] 	Files (320)
+
+Info 17   [20:50:42.392] -----------------------------------------------
+Info 18   [20:50:42.396] Starting updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json
+Info 19   [20:50:42.428] Finishing updateGraphWorker: Project: /home/igfersa/Documents/develop/Angular9/exerciseList/tsconfig.json Version: 2 structureChanged: false Elapsed: 32ms
+Info 20   [20:50:42.428] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 21   [20:50:42.437] Loading global plugin @angular/language-service
+Info 22   [20:50:42.437] Enabling plugin @angular/language-service from candidate paths: /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js,/home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 23   [20:50:42.437] Loading @angular/language-service from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 24   [20:50:42.459] Plugin validation succeded
+Info 25   [20:50:42.462] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [20:50:43.288] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 826ms
+Info 27   [20:50:43.288] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 28   [20:50:43.288] 	Files (6)
+
+Info 29   [20:50:43.288] -----------------------------------------------
