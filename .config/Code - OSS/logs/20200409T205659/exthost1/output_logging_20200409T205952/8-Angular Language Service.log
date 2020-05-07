@@ -1,5 +1,0 @@
-[Info  - 20:59:52] Angular language server process ID: 4339
-[Info  - 20:59:52] Using typescript v3.8.3 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.0/node_modules/typescript/lib/tsserverlibrary.js
-[Info  - 20:59:52] Using @angular/language-service v9.1.0 from /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.0/server/node_modules/@angular/language-service/bundles/language-service.umd.js
-[Info  - 20:59:52] Log file: /home/igfersa/.config/Code - OSS/logs/20200409T205659/exthost1/Angular.ng-template/nglangsvc.log
-[Error - 21:00:04] No config file for /home/igfersa/Documents/develop/Angular9/exerciseList/src/app/exercises/exercises.component.html

@@ -1,8 +1,0 @@
-[2020-05-01 13:44:55.541] [sharedprocess] [info] main {"machineId":"945959b95482efd9fc86640231487ce3ebf723b7f9aeb205287b6f557bf5bc02","windowId":2}
-[2020-05-01 13:44:57.392] [sharedprocess] [info] Installing extension: angular.ng-template
-[2020-05-01 13:44:59.024] [sharedprocess] [info] Downloaded extension: angular.ng-template /tmp/d48fa91f-5ba7-42d8-b5a7-554a811a1915
-[2020-05-01 13:45:07.178] [sharedprocess] [info] Extracted extension to /home/igfersa/.vscode-oss/extensions/.angular.ng-template-0.901.4: angular.ng-template
-[2020-05-01 13:45:07.179] [sharedprocess] [info] Renamed to /home/igfersa/.vscode-oss/extensions/angular.ng-template-0.901.4
-[2020-05-01 13:45:07.180] [sharedprocess] [info] Installation completed. angular.ng-template
-[2020-05-01 13:45:07.191] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
-[2020-05-01 13:45:35.555] [sharedprocess] [info] Starting to clean up unused language packs.
