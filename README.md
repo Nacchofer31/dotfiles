@@ -4,7 +4,7 @@
 
 # Setup
 
-- Settings for:
+- [./.config] Settings for:
 	- vim/nvim (text editor)
 	- zsh (shell)
 	- bspwm (window manager)
@@ -18,4 +18,4 @@
 	- synaptics (general touchpad key binder)
 	- dunst (notifications)
 	- neofetch (sys information tool)
-- Useful scripts in './scripts'
+- [./scripts] Useful scripts
