@@ -18,13 +18,16 @@ alt + t
 
 # program launcher
 alt + d
-	rofi -show drun -theme Monokai
+	rofi -show drun -show-icons
 
 alt + s
 	spotify
 
 alt + f
 	firefox
+
+alt + shift + f
+	firefox --private-window
 
 alt + m
 	telegram-desktop
@@ -242,9 +245,13 @@ XF86AudioMicMute
 
 # launch fontawesome icon menu
 XF86LaunchA
-	sh -c "$HOME/.config/fontawesome-menu/fontawesome-menu -f $HOME/.config/fontawesome-menu/fa5-icon-list.txt -o '-i -columns 4'" && notify-send -t 1000 "$(xclip -o -selection clipboard) copied to clipboard"
+	sh -c "$HOME/.config/fontawesome-menu/fontawesome-menu -f $HOME/.config/fontawesome-menu/fa5-icon-list.txt -o '-i -columns 4'" && notify-send -t 1000 "$(xclip -o -selection clipboard) copied!"
 
 # launch emoji icon menu
 XF86Explorer
-	notify-send -t 1000 "$(xclip -o -selection clipboard) copied to clipboard"
+	sh -c "$HOME/scripts/rofiunicode"
+
+# launch vim to edit config files
+XF86Tools
+	tilix -e nvim ~/.config
 
